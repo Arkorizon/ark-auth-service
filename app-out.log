@@ -1,0 +1,1 @@
+2025-04-20 10:53:57.641 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [br.com.kaliware.ms.auth_ms.AuthMsApplicationTests]: AuthMsApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
